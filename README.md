@@ -48,5 +48,3 @@ The project generates visualizations like crime distribution plots by day, time,
 Predictive Model Outputs:
 The model predicts the likelihood of violent crimes occurring at specific times and locations, with performance metrics visualized for assessment.
 
-# Name: Jacqueline Saad
-# Email: jacqueline.saad05@myhunter.cuny.edu
